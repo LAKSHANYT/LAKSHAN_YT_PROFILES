@@ -16,6 +16,10 @@
   </a>
 </p>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-LK-PROVIDER-OWNER;A+SIMPLE+AND+POWERFUL+TEAM!;A+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
+</p>
+
+
 <!-- ═══════════════════════════════════════════════════════════════
      📊 PROFILE STATS BADGES
 ═══════════════════════════════════════════════════════════════ -->
