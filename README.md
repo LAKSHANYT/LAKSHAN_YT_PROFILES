@@ -6,8 +6,10 @@
      👋 GREETING + TYPING SVG
 ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  👋 &nbsp;Hi, I'm <strong>DUMINDU LAKSHAN</strong>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=0&section=header&text=👑%20Hi,%20I'm%20DUMINDU%20LAKSHAN&fontSize=28&fontColor=ff0000" />
+</p>
+
 </h2>
 
 <p align="center">
@@ -136,27 +138,27 @@ const aravinda = {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/aravinda-amarasingha-271b8020b">
+  <a href="https://www.linkedin.com/in/dumindu-lakshan-526481431/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:supunaravinda2004@gmail.com">
+  <a href="lakshanyt.lk@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/aravinda-dev2004">
+  <a href="https://github.com/LAKSHANYT">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://discord.gg/vPgT9UBH7X">
+  <a href="https://discord.gg/QrJDvA4XeK">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   &nbsp;
-  <a href="https://web.facebook.com/supun.aravinda.9256">
+  <a href=" ">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/_justxaravinda_/">
+  <a href=" ">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
