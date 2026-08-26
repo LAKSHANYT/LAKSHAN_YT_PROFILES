@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Aravinda%20Amarasingha&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20Open%20Source%20Enthusiast&descAlignY=54"/>
+  <img src="https://github.com/LAKSHANYT/LAKSHAN_YT_PROFILE/blob/main/LAKSHAN_YT.jpg"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -7,7 +7,7 @@
 ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  👋 &nbsp;Hi, I'm <strong>Aravinda Amarasingha</strong>
+  👋 &nbsp;Hi, I'm <strong>DUMINDU LAKSHAN</strong>
 </h2>
 
 <p align="center">
@@ -16,10 +16,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <[Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-LK-PROVIDER-OWNER;A+SIMPLE+AND+POWERFUL+TEAM!;A+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
 </p>
+<h1 align="center">
+  <a href="https://discord.gg/QrJDvA4XeK">THE WEBSITE PROVIDER AN MINECRAFT SERVER DEVELOPER</a>
+</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&background=0304FF00&separator=%3C&lines=WELCOME+TO+THE+LAKSHAN_YT+OWNER+PROVIDER;A+SIMPLE+AND+POWERFUL+TEAM!;A+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
+</p>
+
+
 
 
 <!-- ═══════════════════════════════════════════════════════════════
