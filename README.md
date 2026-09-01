@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LAKSHANYT/LAKSHAN_YT_PROFILE/blob/main/LAKSHAN_YT.jpg"/>
+  <img src=""/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
